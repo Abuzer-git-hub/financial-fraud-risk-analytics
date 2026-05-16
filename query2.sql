@@ -1,0 +1,3 @@
+SHOW DATABASES;
+USE fraud_dw;
+SHOW TABLES;
