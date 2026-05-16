@@ -9,7 +9,7 @@ AI-powered Financial Fraud Detection System using Machine Learning, MySQL Data W
 This project detects fraudulent financial transactions using Machine Learning and visualizes analytical insights using Power BI dashboards.
 
 The project combines:
-- Artificial Intelligence
+- Artificial Intelligence / Machine Learning
 - Data Warehousing
 - SQL
 - Business Intelligence
@@ -33,15 +33,15 @@ into one complete analytics solution.
 ## System Workflow
 
 Dataset  
-↓  
+   ↓  
 Data Cleaning  
-↓  
+   ↓  
 Machine Learning Model  
-↓  
+   ↓  
 Fraud Prediction  
-↓  
+   ↓  
 MySQL Data Warehouse  
-↓  
+   ↓  
 Power BI Dashboard  
 ---
 ## Data Warehouse Design
